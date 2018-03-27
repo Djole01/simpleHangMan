@@ -1,0 +1,7 @@
+C:\Users\Djordje\source\repos\SimpleHangManGame\SimpleHangManGame\bin\Debug\SimpleHangManGame.exe.config
+C:\Users\Djordje\source\repos\SimpleHangManGame\SimpleHangManGame\bin\Debug\SimpleHangManGame.exe
+C:\Users\Djordje\source\repos\SimpleHangManGame\SimpleHangManGame\bin\Debug\SimpleHangManGame.pdb
+C:\Users\Djordje\source\repos\SimpleHangManGame\SimpleHangManGame\obj\Debug\SimpleHangManGame.csprojResolveAssemblyReference.cache
+C:\Users\Djordje\source\repos\SimpleHangManGame\SimpleHangManGame\obj\Debug\SimpleHangManGame.csproj.CoreCompileInputs.cache
+C:\Users\Djordje\source\repos\SimpleHangManGame\SimpleHangManGame\obj\Debug\SimpleHangManGame.exe
+C:\Users\Djordje\source\repos\SimpleHangManGame\SimpleHangManGame\obj\Debug\SimpleHangManGame.pdb
